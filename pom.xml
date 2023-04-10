@@ -217,7 +217,7 @@
     <connection>scm:git:git@github.com:Abhishek-1301/CI-CD.git</connection>
     <developerConnection>scm:git:git@github.com:Abhishek-1301/CI-CD.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/Abhishek-1301/CI-CD.git</url>
+    <url>https://github.com/Abhishek-1301/CI-CD</url>
   </scm>
 
   <prerequisites>
