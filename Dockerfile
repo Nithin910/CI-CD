@@ -1,3 +1,3 @@
-FROM httpd:2.4
-COPY index.html /var/www/html/
+FROM nginx:latest
+COPY index.html /usr/share/nginx/html
 EXPOSE 8081
